@@ -68,6 +68,30 @@ Recently, Yulu has been facing revenue challenges and partnered with a consultin
 
 Help Yulu make data-driven decisions to improve micro-mobility services through clear and actionable insights.
 
+## Business Insights and Recommendations
+ 
+1. Seasonal Demand for Bicycle Rentals:
+ Peak Demand: Rentals are highest in Summer and Fall, likely due to comfortable weather and increased outdoor activities.
+Lowest Demand: Spring has the least rentals, possibly due to fluctuating weather conditions. Winter shows moderate demand, suggesting some adaptation to colder conditions. 
+2. Weather Conditions Across Seasons:
+   - Clear/Partly Cloudy: The most common weather across all seasons, especially in Winter and Fall.
+   - Misty Weather: The second most frequent condition, primarily in Winter, which might reduce visibility and slightly impact rentals.
+   - Light Snow/Rain: Less frequent, but Winter sees the most occurrences, potentially causing slight declines in demand.
+   - Heavy Rain/Snow: The least common weather condition, but when it occurs, it significantly reduces bicycle rentals.
+3. Significant Relationship Between Weather & Season:
+The Chi-square test confirms a strong association between weather conditions and seasons (p-value = 1.5499e-07) . Certain weather types are more prevalent in specific seasons, directly influencing rental demand.
+4. Impact of Weekdays vs. Weekends on Rentals:
+No significant difference in rentals between weekdays and weekends . This suggests a consistent demand across all days, possibly due to a mix of work and leisure users.
+5. Impact of Weather & Season on Rental Demand:
+Weather significantly affects rentals : Clear weather increases demand, while rain/snow reduces it.
+Seasonal influence is strong : Rental numbers fluctuate notably between different seasons.
+## Recommendations:
+1. Optimize inventory & pricing : Increase bicycle availability in Summer & Fall, adjust pricing during low-demand seasons.
 
+2. Weather-based promotion strategies : Offer discounts or incentives on misty/light rain days to maintain rental activity.
+
+3. Infrastructure improvements : Consider covered parking spots & rain-resistant gear for bikes to encourage rentals in bad weather.
+
+4. Targeted marketing : Promote weekday rentals to commuters and weekend rentals to leisure users for consistent demand.
 
 
